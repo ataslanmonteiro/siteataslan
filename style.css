@@ -14,12 +14,24 @@ ul:hover{
 }
 footer{
     text-align: center;
+    border-radius: 10px;
+    background-color: rgb(208,162,251);    
+}
+footer:hover{
+    background-color:yellow;    
 }
 fieldset{
     border-radius: 10px;
     background-color: rgb(208,162,251);
 }
 fieldset:hover{
-    background-color: yellow;
+    background-color: yellow;       
+}
+table{
+    border-radius: 10px;
+    background-color: rgb(208,162,251);
+}
+table:hover{
+    background-color: yellow;       
 }
 
