@@ -1,4 +1,25 @@
-ul {
+ul{
+    position: static;
+    text-align: center;
+    height: 25px;
+    width: auto;
+    background-color: rgb(208, 162, 251);
+    border-radius: 10px;
+    margin-inline: 10px;
     display: flex;
-    gap: 20px;
+    gap: 30px;
 }
+ul:hover{
+    background-color: yellow;
+}
+footer{
+    text-align: center;
+}
+fieldset{
+    border-radius: 10px;
+    background-color: rgb(208,162,251);
+}
+fieldset:hover{
+    background-color: yellow;
+}
+
